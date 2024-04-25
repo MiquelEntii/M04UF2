@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+	<item id="1">
+		<item>Bollo</item>
+		<type>Comida</type>
+		<rarity value="5" />
+	</item>
+	<item id="2">
+		<item>Guitarra Flamenca</item>
+		<type>Instrumento</type>
+		<rarity value="100" />
+	</item>
+	<item id="3">
+		<item>Piti</item>
+		<type>Droga</type>
+		<rarity value="10" />
+	</item>
+	<item id="4">
+		<item>Portátil</item>
+		<type>Tecnología</type>
+		<rarity value="30" />
+	</item>
+	<item id="5">
+		<item>Pandereta</item>
+		<type>Instrumento</type>
+		<rarity value="40"/>
+	</item>
+	<item id="6">
+		<item>Piano</item>
+		<type>Instrumento</type>
+		<rarity value="75"/>
+	 </item>
+	 <item id="7">
+	 	<item>Escobilla del Water</item>
+		<type>Limpieza</type>
+		<rarity value="20"/>
+	</item>
+</items>
